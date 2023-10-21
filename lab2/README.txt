@@ -1,5 +1,6 @@
 Датасет 1: https://www.kaggle.com/datasets/sujithmandala/credit-score-classification-dataset
 Датасет 2: https://www.kaggle.com/datasets/pashupatigupta/emotion-detection-from-text
+Картинка:  https://theaircurrent.com/wp-content/uploads/2021/07/norwegian-787-9-pae-factory.jpg
 
 1. Зниження розмірності і візуалізація даних
 Застосуйте методи зниження розмірності sklearn.decomposition.PCA і sklearn.manifold.TSNE для візуалізації даних, з якими ви працювали в лабораторній № 1 (знижуючи розмірність до двох). Візуалізуйте результат.
