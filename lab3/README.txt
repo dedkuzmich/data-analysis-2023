@@ -11,3 +11,28 @@
 
 3. Рекурентні нейронні мережі (RNN)
 Вирішіть задачу класифікації текстів (з якими ви працювали в лабораторній № 2) за допомогою рекурентної нейромережі. Результати порівняйте з одержаними раніше. 
+
+
+
+Imports:
+$ pip install matplotlib
+$ pip install pandas
+$ pip install scikit-learn
+$ pip install nltk
+$ pip install tensorflow
+
+In case you want to print ANN:
+1) Install graphviz:
+$ pip install graphviz
+
+Use winget or choco:
+$ winget install graphviz
+
+Add graphviz /bin folder to your system PATH:	C:\Program Files\Graphviz\bin
+
+
+2) Install ann_visualizer:
+$ pip install ann_visualizer
+
+Replace all "keras.layers.core." with " keras.layers." in visualize.py: C:\Users\lol19\AppData\Local\Programs\Python\Python310\Lib\site-packages\ann_visualizer\visualize.py
+
